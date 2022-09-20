@@ -1,0 +1,27 @@
+/* style.css */
+div {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.odd-ones {
+    color: #000000;
+    background-color: #ff9494;
+    font-family:Verdana, "DejaVu Sans", sans-serif;
+}
+
+#line-two {
+    color:#0000ff;
+    background-color: #ffffff;
+    font-size: 36px;
+}
+
+.line-three {
+    font-size: 24px;
+}
+
+#line-four {
+    background-color: #0cce9a;
+    font-size: 24px;
+    font-weight: 700;
+}
+
